@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IpmaApiClient/IpmaApiClient.iml" filepath="$PROJECT_DIR$/IpmaApiClient/IpmaApiClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeatherForecastByCity/WeatherForecastByCity.iml" filepath="$PROJECT_DIR$/WeatherForecastByCity/WeatherForecastByCity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ex15.iml" filepath="$PROJECT_DIR$/.idea/ex15.iml" />
+    </modules>
+  </component>
+</project>

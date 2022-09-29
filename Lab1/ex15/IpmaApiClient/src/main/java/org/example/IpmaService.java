@@ -1,4 +1,4 @@
-package weather.ipma_client;
+package org.example;
 
 
 import retrofit2.Call;
