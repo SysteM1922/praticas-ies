@@ -30,7 +30,7 @@ A anotação @Controller indica que a classe é um “Controller” (dentro do c
 
 ## B)
 
-Diagramas na pasta atual
+Diagrama na pasta atual
 
 * Entities(Movie/Quote): Representam as entidades que estarão na base de dados. Cada entidade Quote tem uma referência para a entidade Movie respetiva.
 
